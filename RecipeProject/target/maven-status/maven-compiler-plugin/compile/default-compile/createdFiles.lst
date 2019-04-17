@@ -1,9 +1,0 @@
-RecipeCRUD\RecipeCRUDImpl.class
-Recipe\rest\JAXActivator.class
-Recipe\RecipeProject\Recipe.class
-Recipe\resository\RecipeRepositoryImpl.class
-Recipe\util\JSONUtil\JSONUtil.class
-RecipeCRUD\RecipeCRUD.class
-Recipe\RecipeProject\App.class
-Recipe\resository\RecipeRepository.class
-Recipe\rest\RecipeEndpoint.class
